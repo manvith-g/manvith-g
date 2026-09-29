@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/manvithgowda">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:manvithgowda.k31@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -71,7 +71,7 @@
 <div align="center">
   <h5>Currently Learning...</h5>
   <h3>🤖 AI / Machine Learning & GenAI </h3>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn&theme=dark" />
   <p>
     <code>Machine Learning</code> • <code>Deep Learning</code> • <code>NLP</code> • <code>Transformers</code> • <code>LLMs</code><br>
     <code>RAG</code> • <code>Embeddings</code> • <code>Vector Databases</code> • <code>LangChain</code> • <code>LangGraph</code><br>
