@@ -2,16 +2,23 @@
 
 # 👋 Hey, I'm Manvith Gowda
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manvith-g&label=Profile%20Views&color=00C6FF&style=flat-square" alt="manvith-g" />
+</p>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=AI%2FML+%26+GenAI+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;CSE+(Data+Science)+Student+%F0%9F%8E%93;Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=AI%2FML+%26+GenAI+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;CSE+(Data+Science)+Student+%F0%9F%8E%93;Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  <a href="https://github.com/manvith-g">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/manvithgowda">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:manvithgowda.k31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -19,57 +26,80 @@
 
 ---
 
-## 🚀 About Me
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <td width="60%" style="border: none;">
+      <h2>🚀 About Me</h2>
+      <ul>
+        <li>🎓 <b>CSE (Data Science)</b> student passionate about <b>AI & technology</b></li>
+        <li>🤖 Exploring <b>AI/ML, Generative AI & Agentic AI</b></li>
+        <li>💻 Building with <b>React, Node.js, Express & PostgreSQL</b></li>
+        <li>🧠 Currently diving into <b>LLMs, RAG, LangChain, LangGraph & MCP</b></li>
+        <li>☁️ Exploring <b>AWS, Docker & CI/CD</b></li>
+        <li>🧩 Sharpening my skills with <b>DSA in C++</b></li>
+        <li>🏆 Love <b>hackathons, side projects & building ideas</b></li>
+        <li>🌱 <i>Learn → Build → Experiment → Repeat</i></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" style="border: none;">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d6bnh3bWN1aHo0MnMwZTB6MjI2OHR5NjZ6NzlyZWgzdTV5bW14YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Animated Coding GIF" />
+    </td>
+  </tr>
+</table>
 
-- 🎓 Computer Science & Engineering — Data Science student
-- 🤖 Interested in **AI/ML, Generative AI & Agentic AI**
-- 💻 Building full-stack applications with **React, Node.js, Express & PostgreSQL**
-- 🧠 Currently exploring **RAG, LLMs, LangChain, LangGraph & MCP**
-- ☁️ Learning **AWS, Docker & CI/CD**
-- 🧩 Practicing **DSA in C++**
-- 🏆 Hackathon enthusiast
-- 🌱 Always learning, building and experimenting
+---
+
+## 🛠️ Tech Stack & Skills
+
+<table>
+  <tr>
+    <td align="center" width="25%"><b>💻 Languages</b></td>
+    <td align="center" width="25%"><b>🌐 Full Stack</b></td>
+    <td align="center" width="25%"><b>🗄️ Databases</b></td>
+    <td align="center" width="25%"><b>☁️ DevOps & Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,javascript&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode,vercel&theme=dark" /></td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <h3>🤖 AI / Machine Learning Arsenal</h3>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn&theme=dark" />
+  <p>
+    <code>Machine Learning</code> • <code>Deep Learning</code> • <code>NLP</code> • <code>Transformers</code> • <code>LLMs</code><br>
+    <code>RAG</code> • <code>Embeddings</code> • <code>Vector Databases</code> • <code>LangChain</code> • <code>LangGraph</code><br>
+    <code>Agentic AI</code> • <code>Hugging Face</code> • <code>Fine-tuning</code>
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Analytics
 
-### 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark" />
-</p>
-
-### 🌐 Full Stack Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind&theme=dark" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
-</p>
-
-**Currently exploring:**
-
-`Machine Learning` • `Deep Learning` • `NLP` • `Transformers` • `LLMs`
-
-`RAG` • `Embeddings` • `Vector Databases` • `LangChain` • `LangGraph`
-
-`Agentic AI` • `Hugging Face` • `Fine-tuning`
-
-### ☁️ DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode,vercel&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manvith-g&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manvith-g&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvith-g&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
 
 ---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <!-- Note: You need to set up a GitHub action for this snake animation to work. See instructions below! -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manvith-g/manvith-g/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manvith-g/manvith-g/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manvith-g/manvith-g/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
