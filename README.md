@@ -70,7 +70,7 @@
 
 <div align="center">
   <h3>🤖 AI / Machine Learning Arsenal</h3>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn&theme=dark" />
   <p>
     <code>Machine Learning</code> • <code>Deep Learning</code> • <code>NLP</code> • <code>Transformers</code> • <code>LLMs</code><br>
     <code>RAG</code> • <code>Embeddings</code> • <code>Vector Databases</code> • <code>LangChain</code> • <code>LangGraph</code><br>
@@ -78,28 +78,4 @@
   </p>
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manvith-g&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manvith-g&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvith-g&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <!-- Note: You need to set up a GitHub action for this snake animation to work. See instructions below! -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manvith-g/manvith-g/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manvith-g/manvith-g/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manvith-g/manvith-g/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
